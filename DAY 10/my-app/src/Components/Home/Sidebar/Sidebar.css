@@ -1,0 +1,5 @@
+.company-details {
+  display: flex;
+  align-items: start;
+  flex-direction: column;
+}
